@@ -1,3 +1,13 @@
 body {
-  background-color: blueviolet;
+  background-image: url("https://www.google.com/search?q=mid+autumn+festival&tbm=isch&ved=2ahUKEwi-sIPY4ZLzAhVsrnIEHTfOApcQ2-cCegQIABAA&oq=mid+autum&gs_lcp=CgNpbWcQARgAMgoIABCxAxCDARBDMgoIABCxAxCDARBDMgQIABADMgoIABCxAxCDARBDMgoIABCxAxCDARBDMgQIABADMgoIABCxAxCDARBDMgsIABCABBCxAxCDATIECAAQAzIECAAQAzoECAAQQzoFCAAQgAQ6CAgAEIAEELEDOgcIABCxAxBDOggIABCxAxCDAVCFT1iCWWDEYmgAcAB4AIABjgGIAdUIkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=0TlLYf6DLuzcytMPt5yLuAk&bih=969&biw=1920&rlz=1C1GCEU_enUS971US971#imgrc=7UzTTZxnrvoNnM");
+}
+
+.title {
+  color: rgb(100, 30, 70);
+  font-style: italic;
+  text-align: center;
+  margin-top: 35px;
+  font-size: 50px;
+}
+.description {
 }
