@@ -1,13 +1,43 @@
 body {
-  background-image: url("https://www.google.com/search?q=mid+autumn+festival&tbm=isch&ved=2ahUKEwi-sIPY4ZLzAhVsrnIEHTfOApcQ2-cCegQIABAA&oq=mid+autum&gs_lcp=CgNpbWcQARgAMgoIABCxAxCDARBDMgoIABCxAxCDARBDMgQIABADMgoIABCxAxCDARBDMgoIABCxAxCDARBDMgQIABADMgoIABCxAxCDARBDMgsIABCABBCxAxCDATIECAAQAzIECAAQAzoECAAQQzoFCAAQgAQ6CAgAEIAEELEDOgcIABCxAxBDOggIABCxAxCDAVCFT1iCWWDEYmgAcAB4AIABjgGIAdUIkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=0TlLYf6DLuzcytMPt5yLuAk&bih=969&biw=1920&rlz=1C1GCEU_enUS971US971#imgrc=7UzTTZxnrvoNnM");
+  background-image: url(img/festival.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .title {
-  color: rgb(100, 30, 70);
+  color: rgb(186, 25, 25);
   font-style: italic;
   text-align: center;
   margin-top: 35px;
-  font-size: 50px;
+  font-size: 80px;
+  padding: 20px;
+  font: bolder;
+}
+.Mooncakes{
+  text-align: center;
+;
+  
 }
 .description {
+  color: whitesmoke;
+  font-style: italic;
+  text-align:center;
+  font-size: 55px;
+  margin-top: 35px;
+  padding-top: 150px;
 }
+.description2 {
+  color: whitesmoke;
+  font-style: italic;
+  text-align: left;
+  font-size: 55px;
+  margin-top: 35px;
+  padding-top: 110px;
+}
+  .description3 {
+    color: whitesmoke;
+    font-style: italic;
+    text-align: left;
+    font-size: 55px;
+    margin-top: 35px;
+    padding-top: 110px;
