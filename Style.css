@@ -13,20 +13,38 @@ body {
   padding: 20px;
   font: bolder;
 }
-.Mooncakes{
-  text-align: center;
-;
-  
+.Mooncakes {
+  background-image: url("img/Mooncakes.jfif");
+  height: 333px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+  background-position: center;
 }
 .description {
   color: whitesmoke;
   font-style: italic;
-  text-align:center;
+  text-align: center;
   font-size: 55px;
-  margin-top: 35px;
-  padding-top: 150px;
+  margin-top: 40px;
+  padding-top: 125px;
 }
-.description2 {
+.Mooncake-description {
+  color: whitesmoke;
+  font-style: italic;
+  text-align: center;
+  width: 45%;
+  position:relative;
+  font-size: 40px;
+  border-style: double;
+  border
+  border-width: 10px;
+  background-color: firebrick;
+  border-color: rgb(95, 15, 15);
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.description-2 {
   color: whitesmoke;
   font-style: italic;
   text-align: left;
@@ -34,10 +52,11 @@ body {
   margin-top: 35px;
   padding-top: 110px;
 }
-  .description3 {
-    color: whitesmoke;
-    font-style: italic;
-    text-align: left;
-    font-size: 55px;
-    margin-top: 35px;
-    padding-top: 110px;
+.description-3 {
+  color: whitesmoke;
+  font-style: italic;
+  text-align: left;
+  font-size: 55px;
+  margin-top: 35px;
+  padding-top: 110px;
+}
