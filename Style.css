@@ -8,9 +8,9 @@ body {
   color: rgb(186, 25, 25);
   font-style: italic;
   text-align: center;
-  margin-top: 35px;
+  margin-top: 20px;
   font-size: 80px;
-  padding: 20px;
+
   font: bolder;
 }
 .Mooncakes {
@@ -25,38 +25,62 @@ body {
   font-style: italic;
   text-align: center;
   font-size: 55px;
-  margin-top: 40px;
-  padding-top: 125px;
+  margin-top: 34 px;
+  padding-top: 105px;
 }
 .Mooncake-description {
   color: whitesmoke;
   font-style: italic;
   text-align: center;
   width: 45%;
-  position:relative;
+  position: relative;
   font-size: 40px;
   border-style: double;
-  border
   border-width: 10px;
   background-color: firebrick;
   border-color: rgb(95, 15, 15);
   margin-left: auto;
   margin-right: auto;
-  
+}
+.Mooncake-Pic-2 {
+  background-image: url("img/Mooncakes-2.jpg");
+  height: 333px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+  background-position: center;
 }
 .description-2 {
   color: whitesmoke;
   font-style: italic;
-  text-align: left;
-  font-size: 55px;
-  margin-top: 35px;
-  padding-top: 110px;
+  text-align: center;
+  width: 45%;
+  position: relative;
+  font-size: 40px;
+  border-style: double;
+  border-width: 10px;
+  background-color: firebrick;
+  border-color: rgb(95, 15, 15);
+  margin-left: auto;
+  margin-right: auto;
+}
+.Favorite-Mooncake {
+  background-image: url("img/Mooncakes-2.jpg");
+  height: 333px;
+  background-repeat: no-repeat;
+  background-size: 500px;
+  background-position: center;
 }
 .description-3 {
   color: whitesmoke;
   font-style: italic;
-  text-align: left;
-  font-size: 55px;
-  margin-top: 35px;
-  padding-top: 110px;
+  text-align: center;
+  width: 45%;
+  position: relative;
+  font-size: 40px;
+  border-style: double;
+  border-width: 10px;
+  background-color: firebrick;
+  border-color: rgb(95, 15, 15);
+  margin-left: auto;
+  margin-right: auto;
 }
