@@ -1,11 +1,11 @@
 body {
-  background-image: url(img/festival.jpg);
+  background-color: brown;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .title {
-  color: rgb(186, 25, 25);
+  color: rgb(0, 0, 0);
   font-style: italic;
   text-align: center;
   margin-top: 20px;
@@ -63,8 +63,8 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-.Favorite-Mooncake {
-  background-image: url("img/Mooncakes-2.jpg");
+.Favorite-Mooncake-2 {
+  background-image: url("img/Mooncakes-Canto.jpg");
   height: 333px;
   background-repeat: no-repeat;
   background-size: 500px;
