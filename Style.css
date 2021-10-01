@@ -70,17 +70,3 @@ body {
   background-size: 500px;
   background-position: center;
 }
-.description-3 {
-  color: whitesmoke;
-  font-style: italic;
-  text-align: center;
-  width: 45%;
-  position: relative;
-  font-size: 40px;
-  border-style: double;
-  border-width: 10px;
-  background-color: firebrick;
-  border-color: rgb(95, 15, 15);
-  margin-left: auto;
-  margin-right: auto;
-}
